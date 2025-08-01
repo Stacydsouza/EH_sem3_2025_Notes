@@ -42,6 +42,8 @@ Build a simple 15-line Python script that scans TCP ports 1–100 on a target ho
 - Moving from basics to tools like `nmap` shows how scale, parallelism, and protocol support expand capability.
 
 ## Code (`port_scanner.py`)
+Access the code [here](code.py)
+```
 python
 import socket, time
 
